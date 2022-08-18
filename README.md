@@ -73,6 +73,3 @@ and visit [http://localhost:8000/](http://localhost:8000/) to see the applicatio
 * [Laravel](https://laravel.com) - The PHP Framework For Web Artisans
 * [Vue.js](https://vuejs.org) - The Progressive JavaScript Framework
 
-## Acknowledgments
-
-* [Bootsnipp chat snippet](http://bootsnipp.com/snippets/featured/collapsible-chat-widget)
