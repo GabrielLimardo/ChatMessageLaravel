@@ -13,7 +13,7 @@ git clone git@github.com:ammezie/laravel-chat.git
 If you use https, use this instead
 
 ```bash
-git clone https://github.com/ammezie/laravel-chat.git
+git clone https://github.com/GabrielLimardo/ChatMessageLaravel.git
 ```
 
 After cloning,run:
